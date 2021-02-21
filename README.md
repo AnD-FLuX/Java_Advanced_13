@@ -1,2 +1,4 @@
-# Java_Advanced_13
-Java_Advanced_13
+# Java Advanced #13
+**Java Advanced lesson 13 JPA**
+
+- Переписати Dao layer у власному проекті використовуючи JPA
